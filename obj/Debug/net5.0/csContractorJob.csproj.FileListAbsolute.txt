@@ -38,3 +38,5 @@
 /Users/mileswilson/source/codeworks/csContractorJob/obj/Debug/net5.0/ref/csContractorJob.dll
 /Users/mileswilson/source/codeworks/csContractorJob/obj/Debug/net5.0/csContractorJob.pdb
 /Users/mileswilson/source/codeworks/csContractorJob/obj/Debug/net5.0/csContractorJob.genruntimeconfig.cache
+/Users/mileswilson/source/codeworks/csContractorJob/bin/Debug/net5.0/wwwsrc/package-lock.json
+/Users/mileswilson/source/codeworks/csContractorJob/bin/Debug/net5.0/wwwsrc/package.json
